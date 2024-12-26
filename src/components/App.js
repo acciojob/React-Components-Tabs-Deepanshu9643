@@ -37,11 +37,5 @@ function Tabs() {
   );
 }
 
-export default function App() {
-  return (
-    <div className="App">
-      <Tabs />
-    </div>
-  );
-}
+export default Tabs
 
